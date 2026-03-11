@@ -1,7 +1,7 @@
 # Overview
 
 # Team
-
+Alyssa and Blythe are both responsible for an equal amount of work on each step of the project. We will meet weekly to discuss additional steps of the project. We will ask each other questions when we don't understand a certain part of the code or a step in our project. We will conduct additional outside research on our own and ask for help from the TAs and the professor when needed. We will set additional deadlines before the class due dates to ensure we have enough time to peer review our work.
 # Research Questions
 - How does the number of libraries and parks affect affordable housing in different zip codes of Chicago?
 - Is affordable housing more prevalent in Chicago areas with more libraries and parks?
