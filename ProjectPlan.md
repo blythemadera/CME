@@ -3,7 +3,7 @@ The goal of our project is to understand the relationship between areas where af
 
 # Team
 Alyssa and Blythe are both responsible for an equal amount of work on each step of the project. Blythe will be in charge of submitting assignments on Canvas and creating the necessary files on GitHub. Alyssa will keep us on track with our timeline, adding additional tasks when necessary and making sure we are working on the correct things each week.
-We will meet weekly to discuss additional steps of the project. We will ask each other questions when we don't understand a certain part of the code or a step in our project. We will conduct additional outside research on our own and ask for help from the TAs and the professor when needed. We will set additional deadlines before the class due dates to ensure we have enough time to peer review our work.
+We will meet weekly to discuss additional steps of the project. We will ask each other questions when we don't understand certain parts of the code or a step in our project. We will conduct additional outside research on our own and ask for help from the TAs and the professor when needed. We will set additional deadlines before the class due dates to ensure we have enough time to peer review our work.
 
 
 # Research Questions
