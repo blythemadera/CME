@@ -7,7 +7,7 @@ We will meet weekly to discuss additional steps of the project. We will ask each
 
 
 # Research Questions
-What is the relationship between affordable housing and the amount of libraries and parks in different areas of Chicago?
+What is the relationship between affordable housing and the number of libraries and parks in different areas of Chicago?
 
 # Datasets
 - Affordable housing by community data: https://data.cityofchicago.org/Community-Economic-Development/Affordable-Housing-Units-by-Community-Area/yvj4-y3fb
@@ -59,5 +59,5 @@ Constraints: Describe any known limitations or challenges with your datasets or 
 The datasets have been accessed and downloaded from the City of Chicago data portal
 
 # Gaps
-Gaps: Identify any known gaps or areas where you need additional input.
-Your plan should anticipate later course topics even if you don’t yet know all the details. It is expected that your plan will evolve over time.
+We have not yet learned many data cleaning methods that will be helpful when cleaning our data. Initial dataset analysis reveals some rows with missing or unnecessary information that we will need to remove or change. Additionally, we have not fully learned and practiced data integration. This feature will be very important because we have three datasets to combine. Lastly, we haven't learned about workflow automation and provenance, which will be helpful throughout our whole project.
+
