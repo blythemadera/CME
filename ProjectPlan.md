@@ -11,6 +11,8 @@
 - How does access to early childhood education vary across demographic groups?
 # Datasets
 
+https://data.cityofchicago.org/Education/Libraries-Locations-Hours-and-Contact-Information-/wa2i-tm5d
+https://data.cityofchicago.org/Parks-Recreation/Parks-Map-deprecated-November-2016-/2eaw-bdhe
 # Timeline
 
 # Constraints
