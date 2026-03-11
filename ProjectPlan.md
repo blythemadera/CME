@@ -21,14 +21,15 @@ Alyssa and Blythe are both responsible for an equal amount of work on each step 
 
 # Timeline
 
-- March 22 - March 28:
-- March 29 - April 4:
-- March 32 - Interim report Due
-- April 5 - April 11:
-- April 12 - April 18:
-- April 19 - April 25:
-- April 26 - May 2:
-- May 3: Final Project Due
+March 22 - March 28:
+- 
+March 29 - April 4:
+March 32 - Interim report Due
+April 5 - April 11:
+April 12 - April 18:
+April 19 - April 25:
+April 26 - May 2:
+May 3: Final Project Due
 
 
 # Constraints
