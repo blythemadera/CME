@@ -21,15 +21,21 @@ Alyssa and Blythe are both responsible for an equal amount of work on each step 
 
 # Timeline
 
-March 22 - March 28:
-- 
-March 29 - April 4:
-March 32 - Interim report Due
-April 5 - April 11:
-April 12 - April 18:
-April 19 - April 25:
-April 26 - May 2:
-May 3: Final Project Due
+- March 22 - March 28:
+  - Begin writing Interim Status Report
+  - Work on datasets (cleaning, grouping, combining)
+- March 29 - April 4:
+  - Finalize the status report and edit the file with feedback received
+  - Continue working on datasets (cleaning, grouping, combining)
+- March 32 - Interim report Due
+- April 5 - April 11:
+- April 12 - April 18:
+  - Begin working on the Final Project Submission
+- April 19 - April 25:
+  - Continue working on the Final Project Submission
+- April 26 - May 2:
+  - Finalize the Final Project Submission
+- May 3: Final Project Due
 
 
 # Constraints
