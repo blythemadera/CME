@@ -14,6 +14,8 @@ What is the relationship between affordable housing and the amount of libraries 
 
 
 - Library Data: https://data.cityofchicago.org/Education/Libraries-Locations-Hours-and-Contact-Information-/wa2i-tm5d
+  - 81 rows showing information from different libraries
+  - Library information includes branch name
 
   
 - Park data: https://data.cityofchicago.org/Parks-Recreation/Parks-Map-deprecated-November-2016-/2eaw-bdhe
@@ -30,10 +32,14 @@ What is the relationship between affordable housing and the amount of libraries 
   - Continue working on datasets (cleaning, grouping, combining)
 - March 32 - Interim report Due
 - April 5 - April 11:
+  - Finalize the combination of all three datasets (clean, and analyze result)
 - April 12 - April 18:
   - Begin working on the Final Project Submission
+  - Continue editing datasets to observe different factors of it
 - April 19 - April 25:
   - Continue working on the Final Project Submission
+  - Create visualizations for datasets
+  - Finalize dataset analysis and research
 - April 26 - May 2:
   - Finalize the Final Project Submission
 - May 3: Final Project Due
