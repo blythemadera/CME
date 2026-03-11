@@ -38,7 +38,10 @@ https://data.cityofchicago.org/Parks-Recreation/Parks-Map-deprecated-November-20
 
 - March 22 - March 28:
   - Begin writing Interim Status Report
-  - Work on datasets (cleaning, grouping, combining)
+  - Work on datasets
+    - cleaning: removing unnecessary columns that do not add to our research
+    - grouping: make sure each zip code corresponds to one neighborhood in the housing dataset, and aggregate the data based on the zip code for all data sets, will do  by count to avoid confusing string combinations
+    - combining: merge datasets on zip code and assigne parks and libraries to the corresponding communities
 - March 29 - April 4:
   - Finalize the status report and edit the file with the feedback received
   - Continue working on datasets (cleaning, grouping, combining)
