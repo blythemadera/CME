@@ -11,15 +11,24 @@ What is the relationship between affordable housing and the amount of libraries 
 
 # Datasets
 - Affordable housing by community data: https://data.cityofchicago.org/Community-Economic-Development/Affordable-Housing-Units-by-Community-Area/yvj4-y3fb
+  - Downloaded from the Chicago Data Portal
+  - A map is provided on the website with color-coded sections separating different community areas of Chicago
+  - 598 rows describing different communities of Chicago
+  - Descriptions include community name and number, property type and name, address, zip code, management company, units, coordinates, and location
 
-
-- Library Data: https://data.cityofchicago.org/Education/Libraries-Locations-Hours-and-Contact-Information-/wa2i-tm5d
+- Library Data:
+https://data.cityofchicago.org/Education/Libraries-Locations-Hours-and-Contact-Information-/wa2i-tm5d
   - 81 rows showing information from different libraries
-  - Library information includes branch name
+  - Library information includes branch name, service hours, address, city, state, zip code, phone number, website, email, and location coordinates
+  - Downloaded from the Chicago Data Portal
 
   
-- Park data: https://data.cityofchicago.org/Parks-Recreation/Parks-Map-deprecated-November-2016-/2eaw-bdhe
-
+- Park data:
+https://data.cityofchicago.org/Parks-Recreation/Parks-Map-deprecated-November-2016-/2eaw-bdhe
+  - Downloaded from the Chicago Data Portal
+  - 581 Rows showing information for parks in Chicago
+  - Information includes park number, name, and class, street address, zip code, acres, ward, label, location, and specific amenities offered
+  - A map is provided on the data portal with dots displaying each park
 
 
 # Timeline
@@ -28,11 +37,11 @@ What is the relationship between affordable housing and the amount of libraries 
   - Begin writing Interim Status Report
   - Work on datasets (cleaning, grouping, combining)
 - March 29 - April 4:
-  - Finalize the status report and edit the file with feedback received
+  - Finalize the status report and edit the file with the feedback received
   - Continue working on datasets (cleaning, grouping, combining)
 - March 32 - Interim report Due
 - April 5 - April 11:
-  - Finalize the combination of all three datasets (clean, and analyze result)
+  - Finalize the combination of all three datasets (clean and analyze result)
 - April 12 - April 18:
   - Begin working on the Final Project Submission
   - Continue editing datasets to observe different factors of it
