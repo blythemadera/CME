@@ -4,7 +4,7 @@
 # Updated Timeline
 - March 22 - March 28:
   - Begin writing Interim Status Report **DONE**
--- Work on datasets 
+  - Work on datasets 
 cleaning: removing unnecessary columns that do not add to our research
 grouping: make sure each zip code corresponds to one neighborhood in the housing dataset, and aggregate the data based on the zip code for all data sets, will do by count to avoid confusing string combinations
 combining: merge datasets on zip code and assign parks and libraries to the corresponding communities
