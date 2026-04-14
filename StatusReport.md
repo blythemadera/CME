@@ -1,7 +1,7 @@
 # Update on tasks
 We cleaned the datasets using OpenRefine. We focused on the columns of zip codes, affordable housing units, names of parks, and names of libraries. We looked at each of these columns and resolved inconsistencies like missing values. We used Python to combine the highlighted columns into one dataset. We group data by counts to begin looking at the overall datasets to analyze and explore these results. After this, the Status Report will be submitted.
 
-Our next steps all revolve around the Final Project Submission. We will analyze the new dataset more with the necessary columns. We will create different visualizations to analyze the data better. A visualization we will attempt to create is a density-type map that shows the presence of libraries and parks, and density affordable housing units. Our analysis will look at the connection between the number of affordable housing units and the number of parks and libraries. We will analyze the results, like correlation, and come to conclusions about the relationship between housing, parks, and libraries. 
+Our next steps all revolve around the Final Project Submission. We will analyze the new dataset more with the necessary columns. We will create different visualizations to analyze the data better. A visualization we will attempt to create is a density-type map that shows the presence of libraries and parks, and dense affordable housing units. Our analysis will look at the connection between the number of affordable housing units and the number of parks and libraries. We will analyze the results, like correlation, and come to conclusions about the relationship between housing, parks, and libraries. 
 
 # Updated Timeline
 - March 22 - March 28:
