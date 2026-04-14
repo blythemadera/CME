@@ -1,5 +1,7 @@
 # Update on tasks
-- An update on each of the tasks described on your project plan including references and links to specific artifacts in your repository (such as datasets, scripts, workflows, workflow diagrams, etc).
+We cleaned the datasets using OpenRefine. We focused on the columns of zip codes, affordable housing units, names of parks, and names of libraries. We looked at each of these columns and resolved inconsistencies like missing values. We used Python to combine the highlighted columns into one dataset. We group data by counts to begin looking at the overall datasets to analyze and explore these results. After this, the Status Report will be submitted.
+
+Our next steps all revolve around the Final Project Submission. We will analyze the new dataset more with the necessary columns. We will create different visualizations to analyze the data better.
 
 # Updated Timeline
 - March 22 - March 28:
@@ -33,8 +35,11 @@ We were able to use OpenRefine for a lot of the cleaning of the important column
 
 # Challenges
 We were going to use OpenRefine to merge the columns for one dataset, and we wanted to merge based on zip code, but when adding the parks and library columns to the affordable housing file, places with multiple amenities in one zip code only chose to add one of those amenities (parks or libraries). This then caused us to go back to our original plan of using Python to merge the columns. From there, we will continue working on the new file. 
+
 Other issues we faced were that we encountered missing data for some of the parks and affordable housing units. These places didn’t have a zip code. To resolve this, we looked up the address of that location and manually added that zip code to the file. 
 
 # Team-Member Contribution
-- Each team member has to write a short summary of their contributions to the current milestone. Each team member should add and commit their contribution summary themselves to the shared github repo.
+Alyssa:
+
+Blythe: I reviewed each file in OpenRefine and examined the columns to identify any inconsistencies or missing data. I explored different features in OpenRefine to analyze the data further. I helped address missing data and shared my findings to ensure we were both working with the same data. I began exploring the datasets in Python. Finally, I helped write half of the answers to the Status Report, participated in our meetings, and shared my findings.
 
