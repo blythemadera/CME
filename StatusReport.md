@@ -3,20 +3,20 @@
 
 # Updated Timeline
 - March 22 - March 28:
-  - Begin writing Interim Status Report **DONE**
-  - Work on datasets 
+  - Begin writing Interim Status Report (**DONE**)
+  - Work on datasets (**DONE**)
     - cleaning: removing unnecessary columns that do not add to our research
     - grouping: make sure each zip code corresponds to one neighborhood in the housing dataset, and aggregate the data based on the zip code for all data sets, will do by count to avoid confusing string combinations
     - combining: merge datasets on zip code and assign parks and libraries to the corresponding communities
 - March 29 - April 4:
-  - Finalize the status report and edit the file with the feedback received **DONE**
-  - Continue working on datasets (cleaning, grouping, combining)
+  - Finalize the status report and edit the file with the feedback received (**DONE**)
+  - Continue working on datasets (cleaning, grouping, combining) (**DONE**)
 - March 31 - Interim report Due **Due Date Changed to April 14**
 - April 5 - April 11:
-  - Finalize the combination of all three datasets (clean and analyze result)
+  - Finalize the combination of all three datasets (clean and analyze result) (**DONE**)
 - April 12 - April 18:
-  - Begin working on the Final Project Submission
-  - Continue editing datasets to observe different factors of it
+  - Begin working on the Final Project Submission (**IN PROGRESS**)
+  - Continue editing datasets to observe different factors of it (**IN PROGRESS**)
 - April 19 - April 25:
   - Continue working on the Final Project Submission
   - Create visualizations for datasets
