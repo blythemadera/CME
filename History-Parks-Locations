@@ -1,0 +1,12 @@
+[
+  {
+    "op": "core/column-move-first",
+    "columnName": "ZIP",
+    "description": "Move column ZIP to the beginning"
+  },
+  {
+    "op": "core/column-move-left",
+    "columnName": "PARK NAME",
+    "description": "Move column PARK NAME to the left"
+  }
+]
