@@ -37,38 +37,38 @@ The datasets have been accessed and downloaded from the City of Chicago data por
 # Data quality: [500-1000 words] Summary of the quality assessment.
 Affordable Housing Dataset 
 
-Accuracy: Most of the data in the zip code column was syntactically correct. There was an instance in one of the rows, where a zip code was not a Chicagoland area zip code. After further research is it syntactically accurate but not semantically correct? 
+- Accuracy: Most of the data in the zip code column was syntactically correct. There was an instance in one of the rows, where a zip code was not a Chicagoland area zip code. After further research is it syntactically accurate but not semantically correct? 
 
-Completeness: This dataset was complete in the columns necessary, there were missing units' numbers. We concluded that this was unrelated to our project. For the scope of our analysis, the dataset is complete. 
+- Completeness: This dataset was complete in the columns necessary, there were missing units' numbers. We concluded that this was unrelated to our project. For the scope of our analysis, the dataset is complete. 
 
-Consistency: All data provided is consistent with the expected values. 
+- Consistency: All data provided is consistent with the expected values. 
 
-Timeliness: Last updated was December 17, 2025. Not many changes have to be made if there’s no new affordable housing. However the housing data set is vulnerable to timeliness because the dataset consists of complete affordable housing units, and we could be missing units that are in the process of being built, or units that have been completed since 2025. 
+- Timeliness: Last updated was December 17, 2025. Not many changes have to be made if there’s no new affordable housing. However the housing data set is vulnerable to timeliness because the dataset consists of complete affordable housing units, and we could be missing units that are in the process of being built, or units that have been completed since 2025. 
 
 
  
 
 Parks Dataset 
 
-Accuracy: From our cleaning and analysis, we concluded that all of the data was syntactically and semantically accurate. 
+- Accuracy: From our cleaning and analysis, we concluded that all of the data was syntactically and semantically accurate. 
 
-Completeness: There were missing values in the columns for street address and zip code for one row. 
+- Completeness: There were missing values in the columns for street address and zip code for one row. 
 
-Consistency: All data provided is consistent with the expected values. 
+- Consistency: All data provided is consistent with the expected values. 
 
-Timeliness: Last updated was February 20, 2025. Not many changes have to be made if there’s no new parks. 
+- Timeliness: Last updated was February 20, 2025. Not many changes have to be made if there’s no new parks. 
 
  
 
 Library Dataset 
 
-Accuracy: From our cleaning and analysis, we concluded that all of the data was syntactically and semantically accurate. 
+- Accuracy: From our cleaning and analysis, we concluded that all of the data was syntactically and semantically accurate. 
 
-Completeness: The data was complete in all columns. We did not find any missing values. 
+- Completeness: The data was complete in all columns. We did not find any missing values. 
 
-Consistency: All data provided is consistent with the expected values. 
+- Consistency: All data provided is consistent with the expected values. 
 
-Timeliness: Last updated on February 20, 2025. Not many changes have to be made if there are no new libraries. 
+- Timeliness: Last updated on February 20, 2025. Not many changes have to be made if there are no new libraries. 
 
 # Data cleaning: [max 1000 words] Summarize the data cleaning operations you performed and explain how each operation addressed specific data quality issues in your datasets.
 
