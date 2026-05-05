@@ -1,5 +1,6 @@
-# Title: Title of your project
-Contributors: Alyssa Lopez and Blythe Madera
+# Title: Accessibility of Public Amenities near Affordable Housing Areas
+# Contributors: 
+Alyssa Lopez and Blythe Madera
 
 Summary: [500-600 words] Description of your project, motivation, research question(s), and any findings.
 
