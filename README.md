@@ -20,7 +20,7 @@ Library Data:
 https://data.cityofchicago.org/Education/Libraries-Locations-Hours-and-Contact-Information-/wa2i-tm5d 
   - 81 rows showing information from different libraries
   - Library information includes branch name, service hours, address, city, state, zip code, phone number, website, email, and location coordinates
-  - Downloaded as a json file from the Chicago Data Portal (json__ link taken from the Data Portal and uploaded into OpenRefine)
+  - Downloaded as a json file from the Chicago Data Portal (json (soda2) link taken from the Data Portal and uploaded into OpenRefine)
   - Last updated on February 20, 2025
 
 Park data:
