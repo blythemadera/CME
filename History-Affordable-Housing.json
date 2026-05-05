@@ -1,0 +1,351 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Community Area Name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Near South Side",
+          "Near  South Side"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Near South Side"
+      }
+    ],
+    "description": "Mass edit cells in column Community Area Name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Property Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Multifamily",
+          "Multfamily"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Multifamily"
+      }
+    ],
+    "description": "Mass edit cells in column Property Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Property Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Senior",
+          "Seniors"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Senior"
+      },
+      {
+        "from": [
+          "Multifamily",
+          "Mutifamily"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Multifamily"
+      }
+    ],
+    "description": "Mass edit cells in column Property Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "The Community Builders Inc.",
+          "The Community Builders, Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Community Builders Inc."
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "East Lake Management Group, Inc.",
+          "East Lake Management & Development Corp.",
+          "East Lake Management Co.",
+          "East Lake Management"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "East Lake Management Group, Inc."
+      },
+      {
+        "from": [
+          "Heartland Housing",
+          "Heartland Houisng Inc.",
+          "Heartland Housing Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heartland Housing"
+      },
+      {
+        "from": [
+          "Evergreen Real Estate Services LLC",
+          "Evergreen Real Estate LLC",
+          "Evergreen Real Estate Services"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evergreen Real Estate Services LLC"
+      },
+      {
+        "from": [
+          "Senior Lifestyle Corp.",
+          "Senior Lifestyle",
+          "Senior Lifestyle Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Senior Lifestyle Corp."
+      },
+      {
+        "from": [
+          "TLC Management Co.",
+          "TLC Management Co. (chicagorentals.com)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TLC Management Co."
+      },
+      {
+        "from": [
+          "Volunteers of America Illinois",
+          "Voluinteers of America Illinois"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Volunteers of America Illinois"
+      },
+      {
+        "from": [
+          "Anixter Center",
+          "Anixter Center Housing Services"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anixter Center"
+      },
+      {
+        "from": [
+          "Marquette Management Inc.",
+          "Marquette Management"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marquette Management Inc."
+      },
+      {
+        "from": [
+          "Catholic Charities Housing Devp.",
+          "Catholic Charities"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catholic Charities Housing Devp."
+      },
+      {
+        "from": [
+          "Draper and Kramer",
+          "Draper and Kramer, Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Draper and Kramer"
+      },
+      {
+        "from": [
+          "Related Management Co. LP",
+          "Related Management"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Related Management Co. LP"
+      },
+      {
+        "from": [
+          "The Community Builders Inc.",
+          "The Community Builders"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Community Builders Inc."
+      },
+      {
+        "from": [
+          "Perlmark Realty Management",
+          "Perlmark Realty Management LLC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Perlmark Realty Management"
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Omni Group",
+          "Onni Group"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Omni Group"
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fifield Co.",
+          "Fifield Cos."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fifield Co."
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Deborah's Place",
+          "Deborah's Place Ltd."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Deborah's Place"
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Management Company",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Heartland Housing",
+          "Heartland Houing Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heartland Housing"
+      },
+      {
+        "from": [
+          "Fulton Grace",
+          "Fulton Grace Realty"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fulton Grace Realty"
+      },
+      {
+        "from": [
+          "Bickerdike Apts.",
+          "Bickerdike Apartments"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bickerdike Apartments"
+      }
+    ],
+    "description": "Mass edit cells in column Management Company"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Property Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Supportive Housing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Supportive"
+      }
+    ],
+    "description": "Mass edit cells in column Property Type"
+  }
+]
