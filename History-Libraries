@@ -1,0 +1,7 @@
+[
+  {
+    "op": "core/column-move-first",
+    "columnName": "ZIP",
+    "description": "Move column ZIP to the beginning"
+  }
+]
