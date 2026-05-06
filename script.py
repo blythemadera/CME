@@ -6,7 +6,7 @@ import seaborn as sns
 
 parks_df = pd.read_csv("Parks-Locations.csv")
 libraries_df = pd.read_csv("libraries-json.csv")
-housing_df = pd.read_csv("Affordable-Rental-Housing-Developments.csv")
+housing_df = pd.read_csv("affordable-housing-json (2).csv")
 
 parks_agg = parks_df.groupby("ZIP").count().reset_index()
 parks_agg = parks_agg[["ZIP", "PARK NAME"]]
@@ -31,9 +31,13 @@ corr = merged_df.corr()
 hp_corr = merged_df['housing_count'].corr(merged_df['park_count'])
 hl_corr = merged_df['housing_count'].corr(merged_df['library_count'])
 
+#heatmap
 plt.figure(figsize=(8,5))
 sns.heatmap(corr, annot=True, cmap='Blues', fmt=".2f")
 plt.title("Correlation Between Housing, Libraries, and Parks")
+
+#scatterplot
+
 
 if not os.path.exists("results"):
     os.path.makedirs("results", exists_ok=True)
@@ -47,3 +51,7 @@ with open(results_file, "wt") as f:
 figure_file = 'results/correlation.pdf'
 print(f'Writing figure to {figure_file}')
 plt.savefig(figure_file)
+
+scatter_file = 'results/scatter_plot.pdf'
+print(f'Writing figure to {scatter_file}')
+plt.savefig(scatter_file)
