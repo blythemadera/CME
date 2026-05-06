@@ -1,0 +1,29 @@
+[
+  {
+    "op": "core/column-move-first",
+    "columnName": "_ - zip_code",
+    "description": "Move column _ - zip_code to the beginning"
+  },
+  {
+    "op": "core/column-move-first",
+    "columnName": "_ - units",
+    "description": "Move column _ - units to the beginning"
+  },
+  {
+    "op": "core/column-move-left",
+    "columnName": "_ - zip_code",
+    "description": "Move column _ - zip_code to the left"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - zip_code",
+    "newColumnName": "ZIP",
+    "description": "Rename column _ - zip_code to ZIP"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - units",
+    "newColumnName": "UNITS",
+    "description": "Rename column _ - units to UNITS"
+  }
+]
