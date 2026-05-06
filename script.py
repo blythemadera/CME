@@ -37,7 +37,9 @@ sns.heatmap(corr, annot=True, cmap='Blues', fmt=".2f")
 plt.title("Correlation Between Housing, Libraries, and Parks")
 
 #scatterplot
-
+plt.scatter(merged_df['zip'], merged_df['library_count'],color='blue', label='Dataset A')
+plt.scatter(merged_df['zip'], merged_df['park_count'],color='red', label='Dataset B')
+plt.scatter(merged_df['zip'], merged_df['housing_count'],color='green', label='Dataset C')
 
 if not os.path.exists("results"):
     os.path.makedirs("results", exists_ok=True)
