@@ -90,17 +90,19 @@ Finally, another challenge we encountered was having to switch our analysis from
 
 3. We downloaded the files and using Python opened each file in a pdf (https://github.com/blythemadera/CME/blob/1e65e8ffee773261a2cd8434e9b61ab649aa9cbd/Project.ipynb). 
 
-4. We observed the dataset downloaded from each file for each of the three datasets.  
+4. We changed the names of the files to "affordable-housing-json (2).csv," "Parks-Locations.csv," and "libraries-json.csv." 
+   
+5. We observed the dataset downloaded from each file for each of the three datasets.  
 
-5. We grouped each zip code by their count for each of the three datasets. 
+6. We grouped each zip code by their count for each of the three datasets. 
 
-6. We aggregated each column name (units, branch, and park name, respectively) to their corresponding zip code creating a count of each per every separate zip code. 
+7. We aggregated each column name (units, branch, and park name, respectively) to their corresponding zip code creating a count of each per every separate zip code. 
 
-7. We merged all three datasets into one. Having the counts of each amenity to each zip code. 
+8. We merged all three datasets into one. Having the counts of each amenity to each zip code. 
 
-8. We created visualizations for the datasets and observed the data. 
+9. We created visualizations for the datasets and observed the data. 
 
-9. We uploaded the Snake-make file and script in the repository (https://github.com/blythemadera/CME/blob/1e65e8ffee773261a2cd8434e9b61ab649aa9cbd/Snakefile). 
+10. We uploaded the Snake-make file and script in the repository (https://github.com/blythemadera/CME/blob/1e65e8ffee773261a2cd8434e9b61ab649aa9cbd/Snakefile). 
 
 # References
 
