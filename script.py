@@ -31,7 +31,7 @@ corr = merged_df.corr()
 hp_corr = merged_df['housing_count'].corr(merged_df['park_count'])
 hl_corr = merged_df['housing_count'].corr(merged_df['library_count'])
 
-plt.figure(figsize=(6,4))
+plt.figure(figsize=(8,5))
 sns.heatmap(corr, annot=True, cmap='Blues', fmt=".2f")
 plt.title("Correlation Between Housing, Libraries, and Parks")
 
@@ -41,10 +41,9 @@ if not os.path.exists("results"):
 results_file = 'results/correlation_results.txt'
 
 with open(results_file, "wt") as f:
-      f.write(f'Housing and Park Correlation: {round(hp_corr, 3)}\n'
-        f'Housing and Library Correlation: {round(hl_corr, 3)}\n')
+      f.write(f'Housing and Park Correlation: {round(hp_corr, 5)}\n'
+        f'Housing and Library Correlation: {round(hl_corr, 5)}')
 
 figure_file = 'results/correlation.pdf'
 print(f'Writing figure to {figure_file}')
-plt.figure.savefig(figure_file)
-
+plt.savefig(figure_file)
