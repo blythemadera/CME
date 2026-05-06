@@ -1,7 +1,98 @@
 [
   {
-    "op": "core/column-move-first",
-    "columnName": "ZIP",
-    "description": "Move column ZIP to the beginning"
+    "op": "core/column-rename",
+    "oldColumnName": "_ - branch_",
+    "newColumnName": "Branch",
+    "description": "Rename column _ - branch_ to Branch"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - service_hours",
+    "newColumnName": "Service Hours",
+    "description": "Rename column _ - service_hours to Service Hours"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - address",
+    "newColumnName": "Address",
+    "description": "Rename column _ - address to Address"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - state",
+    "newColumnName": "State",
+    "description": "Rename column _ - state to State"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - city",
+    "newColumnName": "City",
+    "description": "Rename column _ - city to City"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - zip",
+    "newColumnName": "Zip",
+    "description": "Rename column _ - zip to Zip"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - branch_email",
+    "newColumnName": "Branch Email",
+    "description": "Rename column _ - branch_email to Branch Email"
+  },
+  {
+    "op": "core/column-move-last",
+    "columnName": "_ - :@computed_region_rpca_8um6",
+    "description": "Move column _ - :@computed_region_rpca_8um6 to the end"
+  },
+  {
+    "op": "core/column-move-last",
+    "columnName": "_ - :@computed_region_vrxf_vc4k",
+    "description": "Move column _ - :@computed_region_vrxf_vc4k to the end"
+  },
+  {
+    "op": "core/column-move-last",
+    "columnName": "_ - :@computed_region_6mkv_f3dw",
+    "description": "Move column _ - :@computed_region_6mkv_f3dw to the end"
+  },
+  {
+    "op": "core/column-move-last",
+    "columnName": "_ - :@computed_region_bdys_3d7i",
+    "description": "Move column _ - :@computed_region_bdys_3d7i to the end"
+  },
+  {
+    "op": "core/column-move-last",
+    "columnName": "_ - :@computed_region_43wa_7qmu",
+    "description": "Move column _ - :@computed_region_43wa_7qmu to the end"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - phone",
+    "newColumnName": "Phone Number",
+    "description": "Rename column _ - phone to Phone Number"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - website - url",
+    "newColumnName": "Website",
+    "description": "Rename column _ - website - url to Website"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - location - latitude",
+    "newColumnName": "Latitude",
+    "description": "Rename column _ - location - latitude to Latitude"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "_ - location - longitude",
+    "newColumnName": "Longitude",
+    "description": "Rename column _ - location - longitude to Longitude"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "_ - location - human_address",
+    "description": "Remove column _ - location - human_address"
   }
 ]
